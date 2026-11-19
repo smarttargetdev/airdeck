@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Smarties Controller"
+rootProject.name = "Air Deck"
 
 include(":app")

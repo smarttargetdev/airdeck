@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-  namespace = "br.com.smarttarget.android.controller"
+  namespace = "br.com.smarttarget.android.airdeck"
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {

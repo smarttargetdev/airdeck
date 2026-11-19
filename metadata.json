@@ -1,6 +1,6 @@
 {
-  "name": "Smarties Controller",
-  "description": "Controle Bluetooth HID nativo para emular mouse, trackpad, teclado híbrido, Air Mouse e mídia em dispositivos remotos.",
+  "name": "Air Deck",
+  "description": "Air Deck — Controle Bluetooth HID nativo para emular mouse, trackpad, teclado híbrido, Air Mouse e mídia em dispositivos remotos.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

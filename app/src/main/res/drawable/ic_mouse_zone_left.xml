@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="56dp"
+    android:height="36dp"
+    android:viewportWidth="56"
+    android:viewportHeight="36">
+    <!-- Left mouse button ergonomic plate -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillAlpha="0.10"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeAlpha="0.88"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round"
+        android:pathData="M10,29 L10,22 C10,12.5 18,6 30,6 L47,6 C48.7,6 50,7.3 50,9 L50,27 C50,28.7 48.7,30 47,30 L12,30 C10.9,30 10,29.1 10,29 Z" />
+    <!-- Tactile click ridge on left shoulder -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeAlpha="0.95"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M19,17 C23,12.5 30,11 40,11" />
+    <!-- Subtle left-primary indicator pill -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillAlpha="0.65"
+        android:pathData="M34,20 L42,20 C42.8,20 43.5,20.7 43.5,21.5 C43.5,22.3 42.8,23 42,23 L34,23 C33.2,23 32.5,22.3 32.5,21.5 C32.5,20.7 33.2,20 34,20 Z" />
+</vector>

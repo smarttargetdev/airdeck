@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Smarties Controller</string>
+    <string name="app_name">Air Deck</string>
     <string name="status_connected">Conectado</string>
     <string name="status_connecting">Conectando…</string>
     <string name="status_disconnected">Desconectado</string>
@@ -9,6 +9,17 @@
     <string name="status_unsupported">HID indisponível</string>
     <string name="cd_devices_button">Dispositivos Bluetooth</string>
     <string name="cd_settings_button">Ajustes do controle</string>
+    <string name="cd_help_button">Ajuda</string>
     <string name="cd_keyboard_toggle">Alternar teclado</string>
-    <string name="cd_hero_banner">Ilustração de conexão Bluetooth do Smarties Controller</string>
+    <string name="cd_hero_banner">Ilustração de conexão Bluetooth do Air Deck</string>
+    <string name="service_channel_name">Conexão Bluetooth HID</string>
+    <string name="service_channel_desc">Mantém o controle Bluetooth HID e o pareamento ativos para o Air Deck.</string>
+    <string name="service_notification_title">Air Deck HID</string>
+    <string name="service_notification_connected">Conectado a %1$s</string>
+    <string name="service_notification_connecting">Conectando a %1$s…</string>
+    <string name="service_notification_reconnecting">Reconectando a %1$s (%2$d/%3$d)…</string>
+    <string name="service_notification_discovering">Procurando dispositivos Bluetooth…</string>
+    <string name="service_notification_ready">Pronto para conexão Bluetooth HID</string>
+    <string name="service_notification_disconnect">Desconectar</string>
+    <string name="service_notification_cancel">Cancelar</string>
 </resources>
