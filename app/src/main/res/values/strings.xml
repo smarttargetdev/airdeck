@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smarties Controller</string>
+    <string name="status_connected">Conectado</string>
+    <string name="status_connecting">Conectando…</string>
+    <string name="status_disconnected">Desconectado</string>
+    <string name="status_registering">Inicializando HID…</string>
+    <string name="status_bt_off">Bluetooth desligado</string>
+    <string name="status_permission_needed">Permissão necessária</string>
+    <string name="status_unsupported">HID indisponível</string>
+    <string name="cd_devices_button">Dispositivos Bluetooth</string>
+    <string name="cd_settings_button">Ajustes do controle</string>
+    <string name="cd_keyboard_toggle">Alternar teclado</string>
+    <string name="cd_hero_banner">Ilustração de conexão Bluetooth do Smarties Controller</string>
+</resources>
